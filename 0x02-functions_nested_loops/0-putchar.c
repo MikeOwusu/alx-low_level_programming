@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-   char str[] = "Hello, world!";
+   char str[] = "_putchar";
    int i;
 
    for (i = 0; str[i] != '\0'; i++) {

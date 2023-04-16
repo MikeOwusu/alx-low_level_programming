@@ -1,16 +1,16 @@
 #include "main.h"
 /**
- * _puts_recursion - function for printing using recursion
+ * _puts_recursion - function which prints strings using recursion
  * @s: the string
- * Return: void will be return
+ * Return: void will be returned
  */
 void _puts_recursion(char *s)
 {
-	if (*s != '/0')
+	if (*s != '\0')
 	{
 		_putchar(*s);
 		_puts_recursion(s + 1);
 	}
 	else
-	_putchar('/n');
+	_putchar('\n');
 }

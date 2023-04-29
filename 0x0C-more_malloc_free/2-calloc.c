@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * _calloc - allocates mem for an array and saues malloc
+ * _calloc - allocates mem for an array, suing malloc
  * @nmemb: array
  * @size: bytes size
  * Return: pointer

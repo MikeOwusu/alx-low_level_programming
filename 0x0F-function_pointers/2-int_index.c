@@ -1,8 +1,8 @@
 #include "function_pointers.h"
 /**
- * int_index - search for an integer
+ * int_index - to search for an integer
  * @array: input array of integer
- * @size: size of array.
+ * @size: size of the array.
  * @cmp: pointer to the function
  * Return: -1. If size <= 0, return -1.
  */

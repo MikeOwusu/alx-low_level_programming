@@ -6,7 +6,7 @@
  * print_numbers - to print numbers in the string
  * @separator: the string to seaparate numbers
  * @n: the number integers paseed to the function
- * Return: returns 0 if success
+ * Return: 0 for success
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
 {

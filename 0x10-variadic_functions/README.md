@@ -1,1 +1,1 @@
-This is a varadiac function assignment
+this is for variadic functions
